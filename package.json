@@ -1,0 +1,20 @@
+{
+  "name": "twitter-notes",
+  "version": "1.0.0",
+  "description": "Application to maintain notes on Twitter friends",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Erick Ciudad",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.1.4",
+    "body-parser": "^1.16.0",
+    "cookie-parser": "^1.4.3",
+    "ejs": "^2.5.5",
+    "express": "^4.14.0",
+    "mongodb": "^2.2.20",
+    "oauth": "^0.9.14"
+  }
+}
